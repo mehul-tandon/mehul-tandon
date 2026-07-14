@@ -78,22 +78,11 @@
 
 ### Featured projects
 
-<table>
-<tr>
-<td width="50%">
-<a href="https://github.com/mehul-tandon/PromptXecure">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mehul-tandon&repo=PromptXecure&theme=default&hide_border=true" />
-</a>
-<p>Open-source AI security firewall protecting LLM apps from prompt injection, jailbreaking, PII leakage, and data extraction — zero-config middleware for any LLM pipeline, with real-time threat classification and full observability via Langfuse.</p>
-</td>
-<td width="50%">
-<a href="https://github.com/mehul-tandon/WipeOut">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mehul-tandon&repo=WipeOut&theme=default&hide_border=true" />
-</a>
-<p>Cross-platform secure data-wiping CLI implementing NIST 800-88 and DoD 5220.22-M standards, with multi-pass overwrite and tamper-proof erasure certificates.</p>
-</td>
-</tr>
-</table>
+**[PromptXecure](https://github.com/mehul-tandon/PromptXecure)** · `Python` `FastAPI` `Langfuse` `PostgreSQL` `Redis`
+Open-source AI security firewall protecting LLM apps from prompt injection, jailbreaking, PII leakage, and data extraction — zero-config middleware for any LLM pipeline, with real-time threat classification and full observability via Langfuse.
+
+**[WipeOut](https://github.com/mehul-tandon/WipeOut)** · `Python` `Cross-platform CLI`
+Secure cross-platform data-wiping CLI implementing NIST 800-88 and DoD 5220.22-M standards, with multi-pass overwrite and tamper-proof erasure certificates.
 
 ---
 
